@@ -18,7 +18,12 @@ var instructors = [
 // ---------------------------
 // 1. Find largest number
 // ---------------------------
+	function lrgNum( num ){
+		
+		var highest = num[0]
 
+		for(i = 0 ; i < num.length ; i++)
+	} 
 
 // ---------------------------
 // 2. Find longest string
